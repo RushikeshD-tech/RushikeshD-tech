@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RushikeshD-tech
+- 👋 Hi, I’m @RhishikeshD-tech
 - 👀 I’m interested in Application Developement 
 - 🌱 I’m currently learning RealTime Rendering 
 - 💞️ I’m looking to collaborate on projects in graphics and application developement 
